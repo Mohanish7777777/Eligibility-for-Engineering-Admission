@@ -36,8 +36,8 @@ Exit the Program.
 
 ## Program:
 
-### DEVELOPED BY : ABRIN NISHA A
-### REG NO : 212222230005
+### DEVELOPED BY : Mohanish K
+### REG NO : 212222100028
 
 ```
 using System;
